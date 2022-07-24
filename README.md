@@ -1,5 +1,7 @@
 # Git-GitHub_guide
-A beginner's guide to working with Git and/or GitHub:
+ES: Guía para trabajar con Git y/o GitHub para principiantes.
+
+EN: A beginner's guide to working with Git and/or GitHub.
 
 ## - Crear repositorio:
 
