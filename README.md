@@ -3,7 +3,7 @@ A beginner's guide to working with Git and/or GitHub:
 
 ## - Crear repositorio:
 
-**Si el repositorio ya existe clonarlo antes de seguir los pasos:**
+**Si el repositorio ya existe, hay clonarlo antes de seguir los pasos:**
 
   - git clone                                           --> Paso opcional para clonar un repositorio ya existente.
 
