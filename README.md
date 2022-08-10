@@ -7,9 +7,9 @@ EN: A beginner's guide to working with Git and/or GitHub.
 
 **Si el repositorio ya existe, hay clonarlo antes de seguir los pasos:**
 
-  - git clone                                           --> Paso opcional para clonar un repositorio ya existente.
-
   - git init                                            --> Inicializa el proyecto.
+
+  - git clone "Link"                                    --> Paso opcional para clonar un repositorio ya existente.
   
   - git status                                          --> Paso opcional para ver un listado de archivos del proyecto.
   
@@ -25,7 +25,24 @@ EN: A beginner's guide to working with Git and/or GitHub.
 
 
 ## - Actualizar repositorio:
+
   - git init                                            --> Inicializa el proyecto.
+  
+  - git status                                          --> Paso opcional para ver un listado de archivos del proyecto.
+  
+  - git add .                                           --> Para cargar todos los nuevos archivos a la rama main
+  
+  - git commit -m "Texto variado"                       --> Carga los archivos nuevos del repositorio
+  
+  - git push -u origin main                             --> Para sincronizar la rama local con el remoto
+  
+  ## - Actualizar repositorio compartido:
+  
+  - git init                                            --> Inicializa el proyecto.
+  
+  - git clone "Link"                                    --> Paso opcional para clonar un repositorio ya existente en caso de que no lo tengas.
+  
+  - git pull "Link"                                     --> Actualiza la carpeta local basandose en el repositorio en GitHub.
   
   - git status                                          --> Paso opcional para ver un listado de archivos del proyecto.
   
