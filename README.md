@@ -5,7 +5,7 @@ EN: A beginner's guide to working with Git and/or GitHub.
 
 ## - Crear repositorio:
 
-**Si el repositorio ya existe, hay clonarlo antes de seguir los pasos:**
+**Si el repositorio ya existe, hay que clonarlo antes de seguir los pasos:**
 
   - git init                                            --> Inicializa el proyecto.
 
